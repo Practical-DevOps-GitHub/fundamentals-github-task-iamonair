@@ -1,1 +1,1 @@
-console.log('Some tekst');
+console.log('Some tekst plus PAT');
