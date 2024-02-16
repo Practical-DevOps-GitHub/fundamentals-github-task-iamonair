@@ -1,1 +1,1 @@
-console.log('Test file');
+console.log('Some tekst');
