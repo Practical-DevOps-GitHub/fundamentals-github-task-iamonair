@@ -1,0 +1,16 @@
+# CODEOWNERS file
+
+# Specify @softservedata as the code owner for the entire project
+* @softservedata
+
+# Specify @softservedata as the code owner for specific directories
+/src/ @softservedata
+/tests/ @softservedata
+/docs/ @softservedata
+
+# Specify @softservedata as the code owner for specific file types
+*.html @softservedata
+*.js @softservedata
+
+# Specify @softservedata as the code owner for individual files
+/path/to/specific/file.txt @softservedata
